@@ -1,0 +1,5 @@
+**/*.d
+**/Debug
+**/*.lock
+**/*.log
+.metadata/.plugins
